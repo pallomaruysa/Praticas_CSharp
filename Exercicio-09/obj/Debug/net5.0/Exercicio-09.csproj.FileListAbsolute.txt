@@ -1,0 +1,16 @@
+C:\SENAI\C#\Praticas_CSharp\Exercicio-09\obj\Debug\net5.0\Exercicio-09.csproj.AssemblyReference.cache
+C:\SENAI\C#\Praticas_CSharp\Exercicio-09\obj\Debug\net5.0\Exercicio-09.GeneratedMSBuildEditorConfig.editorconfig
+C:\SENAI\C#\Praticas_CSharp\Exercicio-09\obj\Debug\net5.0\Exercicio-09.AssemblyInfoInputs.cache
+C:\SENAI\C#\Praticas_CSharp\Exercicio-09\obj\Debug\net5.0\Exercicio-09.AssemblyInfo.cs
+C:\SENAI\C#\Praticas_CSharp\Exercicio-09\obj\Debug\net5.0\Exercicio-09.csproj.CoreCompileInputs.cache
+C:\SENAI\C#\Praticas_CSharp\Exercicio-09\bin\Debug\net5.0\Exercicio-09.exe
+C:\SENAI\C#\Praticas_CSharp\Exercicio-09\bin\Debug\net5.0\Exercicio-09.deps.json
+C:\SENAI\C#\Praticas_CSharp\Exercicio-09\bin\Debug\net5.0\Exercicio-09.runtimeconfig.json
+C:\SENAI\C#\Praticas_CSharp\Exercicio-09\bin\Debug\net5.0\Exercicio-09.runtimeconfig.dev.json
+C:\SENAI\C#\Praticas_CSharp\Exercicio-09\bin\Debug\net5.0\Exercicio-09.dll
+C:\SENAI\C#\Praticas_CSharp\Exercicio-09\bin\Debug\net5.0\ref\Exercicio-09.dll
+C:\SENAI\C#\Praticas_CSharp\Exercicio-09\bin\Debug\net5.0\Exercicio-09.pdb
+C:\SENAI\C#\Praticas_CSharp\Exercicio-09\obj\Debug\net5.0\Exercicio-09.dll
+C:\SENAI\C#\Praticas_CSharp\Exercicio-09\obj\Debug\net5.0\ref\Exercicio-09.dll
+C:\SENAI\C#\Praticas_CSharp\Exercicio-09\obj\Debug\net5.0\Exercicio-09.pdb
+C:\SENAI\C#\Praticas_CSharp\Exercicio-09\obj\Debug\net5.0\Exercicio-09.genruntimeconfig.cache

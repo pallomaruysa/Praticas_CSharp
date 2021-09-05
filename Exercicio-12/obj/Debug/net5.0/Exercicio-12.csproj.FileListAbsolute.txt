@@ -1,0 +1,16 @@
+C:\SENAI\C#\Praticas_CSharp\Exercicio-12\obj\Debug\net5.0\Exercicio-12.csproj.AssemblyReference.cache
+C:\SENAI\C#\Praticas_CSharp\Exercicio-12\obj\Debug\net5.0\Exercicio-12.GeneratedMSBuildEditorConfig.editorconfig
+C:\SENAI\C#\Praticas_CSharp\Exercicio-12\obj\Debug\net5.0\Exercicio-12.AssemblyInfoInputs.cache
+C:\SENAI\C#\Praticas_CSharp\Exercicio-12\obj\Debug\net5.0\Exercicio-12.AssemblyInfo.cs
+C:\SENAI\C#\Praticas_CSharp\Exercicio-12\obj\Debug\net5.0\Exercicio-12.csproj.CoreCompileInputs.cache
+C:\SENAI\C#\Praticas_CSharp\Exercicio-12\bin\Debug\net5.0\Exercicio-12.exe
+C:\SENAI\C#\Praticas_CSharp\Exercicio-12\bin\Debug\net5.0\Exercicio-12.deps.json
+C:\SENAI\C#\Praticas_CSharp\Exercicio-12\bin\Debug\net5.0\Exercicio-12.runtimeconfig.json
+C:\SENAI\C#\Praticas_CSharp\Exercicio-12\bin\Debug\net5.0\Exercicio-12.runtimeconfig.dev.json
+C:\SENAI\C#\Praticas_CSharp\Exercicio-12\bin\Debug\net5.0\Exercicio-12.dll
+C:\SENAI\C#\Praticas_CSharp\Exercicio-12\bin\Debug\net5.0\ref\Exercicio-12.dll
+C:\SENAI\C#\Praticas_CSharp\Exercicio-12\bin\Debug\net5.0\Exercicio-12.pdb
+C:\SENAI\C#\Praticas_CSharp\Exercicio-12\obj\Debug\net5.0\Exercicio-12.dll
+C:\SENAI\C#\Praticas_CSharp\Exercicio-12\obj\Debug\net5.0\ref\Exercicio-12.dll
+C:\SENAI\C#\Praticas_CSharp\Exercicio-12\obj\Debug\net5.0\Exercicio-12.pdb
+C:\SENAI\C#\Praticas_CSharp\Exercicio-12\obj\Debug\net5.0\Exercicio-12.genruntimeconfig.cache

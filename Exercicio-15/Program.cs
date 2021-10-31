@@ -10,12 +10,13 @@ namespace Exercicio_15
             ArrayList listaNotas = new ArrayList();
             Notas n = new Notas();   
             int loop;
-            double contNotas=0.0;
+            
 
             Console.WriteLine("\n \t\t\t\t Seja bem-vindo ao WellPlus");
             Console.WriteLine("\t\t Digite aqui suas notas para saber como vai seu rendimento ;-)");
 
             do{
+                double contNotas=0.0;
                 Console.WriteLine("\nDigite o nome da matéria");
                 n.Materia = Console.ReadLine();
 
@@ -29,15 +30,24 @@ namespace Exercicio_15
                     contNotas+=(double)listaNotas[i];
                 }
 
-
-
                 Console.WriteLine("\nRESULTADO: ");
-                
                 for(int i=0; i<qntNotas; i++){
                     Console.WriteLine(listaNotas[i]);
                 }
 
-                Console.WriteLine("\nMédia: "+n.Media(contNotas, qntNotas));
+                double media =  n.Media(contNotas, qntNotas);
+                Console.WriteLine("\nMédia: "+media);
+
+                listaNotas.Sort();
+                for(int i=0; i<1; i++){
+                   Console.WriteLine("Menor nota: "+listaNotas[0]);
+                }
+
+                listaNotas.Reverse();
+                for(int i=0; i<1; i++){
+                   Console.WriteLine("Maior nota: "+listaNotas[0]);
+                }
+                
 
 
                 Console.WriteLine("-----------------------------------------------------------------------------\n\n");

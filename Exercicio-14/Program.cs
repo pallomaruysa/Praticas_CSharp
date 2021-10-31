@@ -48,6 +48,7 @@ namespace Exercicio_14
                                 case 1: 
                                         Console.WriteLine("Digite o ID do produto a ser modificado: ");
                                         int id1 = int.Parse(Console.ReadLine());
+                                        listaProduto.LastIndexOf(id1);
                                         Console.WriteLine("Digite a quantidade de produtos a ser adicionado: ");
                                         p.AdicionarProduto(int.Parse(Console.ReadLine()));
                                 break;
